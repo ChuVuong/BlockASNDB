@@ -9,4 +9,7 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 
 240319
 	- added 8100, 11878
+	
+240327
+	- added 13213
 
