@@ -12,4 +12,7 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 	
 240327
 	- added 13213
+	
+240328
+	- added 212238
 
