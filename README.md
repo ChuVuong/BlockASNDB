@@ -17,4 +17,6 @@ https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 	- added 212238
 240402
 	- added 7922
+240404	
+	14543, 33363, 46562, 9009, 207990
 
